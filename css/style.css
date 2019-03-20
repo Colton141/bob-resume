@@ -1,0 +1,33 @@
+.top{
+  text-align: center;
+}
+
+.contained-element{
+  flex: 1;
+}
+
+.box2{
+  font-weight: bold;
+
+}
+
+.box1{
+  color: green;
+}
+
+.box3{
+  font-family: 'Patrick Hand', cursive;
+}
+
+.bottom{
+  font-style: italic;
+}
+
+.important{
+  font-family: 'Quattrocento', serif;
+}
+
+.container{
+  diplay: flex;
+  flex-direction: row;
+}
